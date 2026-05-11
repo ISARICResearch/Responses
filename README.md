@@ -4,3 +4,4 @@ This includes:
 - Mpox Research Response Guidance at [https://isaricresearch.github.io/Responses/Mpox](https://isaricresearch.github.io/Responses/Mpox)
 - H5Nx Research Response Guidance at [https://isaricresearch.github.io/Responses/H5Nx](https://isaricresearch.github.io/Responses/H5Nx)
 - Dengue Research Response Guidance at [https://isaricresearch.github.io/Responses/Dengue](https://isaricresearch.github.io/Responses/Dengue)
+- Hantavirus Research Response Guidance at [https://isaricresearch.github.io/Responses/Hantavirus](https://isaricresearch.github.io/Responses/Hantavirus)
