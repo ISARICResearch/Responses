@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ODM xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:redcap="https://projectredcap.org" xsi:schemaLocation="http://www.cdisc.org/ns/odm/v1.3 schema/odm/ODM1-3-1.xsd" ODMVersion="1.3.1" FileOID="000-00-0000" FileType="Snapshot" Description="Self-Reported Mental Health Hantavirus" AsOfDateTime="2026-05-28T15:39:37" CreationDateTime="2026-05-28T15:39:37" SourceSystem="REDCap" SourceSystemVersion="15.5.36">
+<Study OID="Project.SelfReportedMentalHealthHantav">
+<GlobalVariables>
+	<StudyName>Self-Reported Mental Health Hantavirus</StudyName>
+	<StudyDescription>This file contains the metadata, events, and data for REDCap project "Self-Reported Mental Health Hantavirus".</StudyDescription>
+	<ProtocolName>Self-Reported Mental Health Hantavirus</ProtocolName>
+	<redcap:RecordAutonumberingEnabled>1</redcap:RecordAutonumberingEnabled>
+	<redcap:CustomRecordLabel></redcap:CustomRecordLabel>
+	<redcap:SecondaryUniqueField></redcap:SecondaryUniqueField>
+	<redcap:SecondaryUniqueFieldDisplayValue>1</redcap:SecondaryUniqueFieldDisplayValue>
+	<redcap:SecondaryUniqueFieldDisplayLabel>1</redcap:SecondaryUniqueFieldDisplayLabel>
+	<redcap:SchedulingEnabled>0</redcap:SchedulingEnabled>
+	<redcap:SurveysEnabled>1</redcap:SurveysEnabled>
+	<redcap:SurveyInvitationEmailField></redcap:SurveyInvitationEmailField>
+	<redcap:SurveyParticipantIdentifiers>0</redcap:SurveyParticipantIdentifiers>
+	<redcap:RandomizationEnabled>0</redcap:RandomizationEnabled>
+	<redcap:DisplayTodayNowButton>1</redcap:DisplayTodayNowButton>
+	<redcap:PreventBranchingEraseValues>0</redcap:PreventBranchingEraseValues>
+	<redcap:RequireChangeReason>0</redcap:RequireChangeReason>
+	<redcap:DataHistoryPopup>1</redcap:DataHistoryPopup>
+	<redcap:OrderRecordsByField></redcap:OrderRecordsByField>
+	<redcap:taskCompleteStatus>2</redcap:taskCompleteStatus>
+	<redcap:DataResolutionWorkflowEnabled>1</redcap:DataResolutionWorkflowEnabled>
+	<redcap:FieldCommentLogOptionEditDelete>1</redcap:FieldCommentLogOptionEditDelete>
+	<redcap:DataResolutionWorkflowHideClosedQueries>1</redcap:DataResolutionWorkflowHideClosedQueries>
+	<redcap:MyCapEnabled>0</redcap:MyCapEnabled>
+	<redcap:Purpose>2</redcap:Purpose>
+	<redcap:PurposeOther>1</redcap:PurposeOther>
+	<redcap:ProjectNotes></redcap:ProjectNotes>
+	<redcap:SurveyAuthEnabled>0</redcap:SurveyAuthEnabled>
+	<redcap:SurveyAuthField1></redcap:SurveyAuthField1>
+	<redcap:SurveyAuthEvent1></redcap:SurveyAuthEvent1>
+	<redcap:SurveyAuthField2></redcap:SurveyAuthField2>
+	<redcap:SurveyAuthEvent2></redcap:SurveyAuthEvent2>
+	<redcap:SurveyAuthField3></redcap:SurveyAuthField3>
+	<redcap:SurveyAuthEvent3></redcap:SurveyAuthEvent3>
+	<redcap:SurveyAuthMinFields></redcap:SurveyAuthMinFields>
+	<redcap:SurveyAuthApplyAllSurveys>1</redcap:SurveyAuthApplyAllSurveys>
+	<redcap:SurveyAuthCustomMessage></redcap:SurveyAuthCustomMessage>
+	<redcap:SurveyAuthFailLimit></redcap:SurveyAuthFailLimit>
+	<redcap:SurveyAuthFailWindow></redcap:SurveyAuthFailWindow>
+	<redcap:MissingDataCodes></redcap:MissingDataCodes>
+	<redcap:ProtectedEmailMode>0</redcap:ProtectedEmailMode>
+	<redcap:ProtectedEmailModeCustomText></redcap:ProtectedEmailModeCustomText>
+	<redcap:ProtectedEmailModeTrigger>ALL</redcap:ProtectedEmailModeTrigger>
+	<redcap:ProtectedEmailModeLogo></redcap:ProtectedEmailModeLogo>
+	<redcap:SurveysGroup>
+		<redcap:Surveys form_name="wellbeing" title="Wellbeing questionnaire" instructions="&lt;p data-start=&quot;0&quot; data-end=&quot;60&quot;&gt;This survey is only for participants aged 12 years or older.&lt;/p&gt;
+&lt;p data-start=&quot;62&quot; data-end=&quot;217&quot;&gt;Please complete this survey about your wellbeing over the past two weeks. Your responses help us monitor changes over time and support this research study.&lt;/p&gt;
+&lt;p data-start=&quot;219&quot; data-end=&quot;229&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;Thank you!&lt;/p&gt;" offline_instructions="" acknowledgement="&lt;p&gt;&lt;strong&gt;Thank you for participating in this research study.&lt;/strong&gt;&lt;/p&gt;" stop_action_acknowledgement="" stop_action_delete_response="0" question_by_section="0" display_page_number="0" question_auto_numbering="0" survey_enabled="1" save_and_return="0" save_and_return_code_bypass="0" logo="" hide_title="0" view_results="0" min_responses_view_results="10" check_diversity_view_results="0" end_survey_redirect_url="" survey_expiration="" promis_skip_question="0" survey_auth_enabled_single="0" edit_completed_response="0" hide_back_button="0" show_required_field_text="1" confirmation_email_subject="" confirmation_email_content="" confirmation_email_from="" confirmation_email_from_display="" confirmation_email_attach_pdf="0" confirmation_email_attachment="" text_to_speech="0" text_to_speech_language="en" end_survey_redirect_next_survey="0" end_survey_redirect_next_survey_logic="" theme="" text_size="1" font_family="16" custom_css="" theme_text_buttons="" theme_bg_page="" theme_text_title="" theme_bg_title="" theme_text_sectionheader="" theme_bg_sectionheader="" theme_text_question="" theme_bg_question="" enhanced_choices="1" repeat_survey_enabled="0" repeat_survey_btn_text="" repeat_survey_btn_location="BEFORE_SUBMIT" response_limit="" response_limit_include_partials="1" response_limit_custom_text="&lt;p&gt;Thank you for your interest; however, the survey is closed because the maximum number of responses has been reached.&lt;/p&gt;" survey_time_limit_days="" survey_time_limit_hours="" survey_time_limit_minutes="" email_participant_field="" end_of_survey_pdf_download="0" pdf_save_to_field="" pdf_save_to_event_id="" pdf_save_translated="0" pdf_auto_archive="0" pdf_econsent_version="" pdf_econsent_type="" pdf_econsent_firstname_field="" pdf_econsent_firstname_event_id="" pdf_econsent_lastname_field="" pdf_econsent_lastname_event_id="" pdf_econsent_dob_field="" pdf_econsent_dob_event_id="" pdf_econsent_allow_edit="0" pdf_econsent_signature_field1="" pdf_econsent_signature_field2="" pdf_econsent_signature_field3="" pdf_econsent_signature_field4="" pdf_econsent_signature_field5="" survey_width_percent="" survey_show_font_resize="1" survey_btn_text_prev_page="" survey_btn_text_next_page="" survey_btn_text_submit="" survey_btn_hide_submit="0" survey_btn_hide_submit_logic=""/>
+	</redcap:SurveysGroup>
+	<redcap:MultilanguageSettingsGroup>
+		<redcap:MultilanguageSettings settings="YToyMzp7czo3OiJ2ZXJzaW9uIjtzOjc6IjE1LjUuMzYiO3M6NToibGFuZ3MiO2E6Mzp7czoyOiJlbiI7YToxMjp7czozOiJrZXkiO3M6MjoiZW4iO3M6NzoiZGlzcGxheSI7czo3OiJFbmdsaXNoIjtzOjU6Im5vdGVzIjtzOjA6IiI7czo0OiJzb3J0IjtzOjA6IiI7czozOiJydGwiO2I6MDtzOjY6ImFjdGl2ZSI7YjoxO3M6MTI6Im15Y2FwLWFjdGl2ZSI7YjowO3M6MTA6InN1YnNjcmliZWQiO2I6MDtzOjc6InN5c2xhbmciO3M6MDoiIjtzOjE0OiJyZWNhcHRjaGEtbGFuZyI7czowOiIiO3M6MjoiZGQiO2E6Mjp7czoxMToiZm9ybS1hY3RpdmUiO2E6MTp7czo5OiJ3ZWxsYmVpbmciO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MToiMSI7czo3OiJyZWZIYXNoIjtOO319fXM6MTM6InN1cnZleS1hY3RpdmUiO2E6MTp7czo5OiJ3ZWxsYmVpbmciO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MToiMSI7czo3OiJyZWZIYXNoIjtOO319fX1zOjI6InVpIjthOjA6e319czoyOiJlcyI7YToxMjp7czozOiJrZXkiO3M6MjoiZXMiO3M6NzoiZGlzcGxheSI7czo4OiJFc3Bhw7FvbCI7czo1OiJub3RlcyI7czowOiIiO3M6NDoic29ydCI7czowOiIiO3M6MzoicnRsIjtiOjA7czo2OiJhY3RpdmUiO2I6MTtzOjEyOiJteWNhcC1hY3RpdmUiO2I6MDtzOjEwOiJzdWJzY3JpYmVkIjtiOjA7czo3OiJzeXNsYW5nIjtzOjA6IiI7czoxNDoicmVjYXB0Y2hhLWxhbmciO3M6MDoiIjtzOjI6ImRkIjthOjk6e3M6MTA6ImZpZWxkLWVudW0iO2E6NTp7czoxMDoiZ2FkMl9pdGVtMSI7YTo0OntpOjA7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMToiRW4gYWJzb2x1dG8iO3M6NzoicmVmSGFzaCI7czoxMDoiMzViNDJhYjgwMyI7fWk6MTthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjEyOiJWYXJpb3MgZMOtYXMiO3M6NzoicmVmSGFzaCI7czoxMDoiMGJhNmNmNTQyZiI7fWk6MjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjI5OiJNw6FzIGRlIGxhIG1pdGFkIGRlIGxvcyBkw61hcyI7czo3OiJyZWZIYXNoIjtzOjEwOiIzZTFmZWVjZjMwIjt9aTozO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MjA6IkNhc2kgdG9kb3MgbG9zIGTDrWFzIjtzOjc6InJlZkhhc2giO3M6MTA6IjZiNGVlMzM5NWMiO319czoxMDoiZ2FkMl9pdGVtMiI7YTo0OntpOjA7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMToiRW4gYWJzb2x1dG8iO3M6NzoicmVmSGFzaCI7czoxMDoiMzViNDJhYjgwMyI7fWk6MTthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjEyOiJWYXJpb3MgZMOtYXMiO3M6NzoicmVmSGFzaCI7czoxMDoiMGJhNmNmNTQyZiI7fWk6MjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjI5OiJNw6FzIGRlIGxhIG1pdGFkIGRlIGxvcyBkw61hcyI7czo3OiJyZWZIYXNoIjtzOjEwOiIzZTFmZWVjZjMwIjt9aTozO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MjA6IkNhc2kgdG9kb3MgbG9zIGTDrWFzIjtzOjc6InJlZkhhc2giO3M6MTA6IjZiNGVlMzM5NWMiO319czoxMDoicGhxMl9pdGVtMSI7YTo0OntpOjA7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMToiRW4gYWJzb2x1dG8iO3M6NzoicmVmSGFzaCI7czoxMDoiMzViNDJhYjgwMyI7fWk6MTthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjEyOiJWYXJpb3MgZMOtYXMiO3M6NzoicmVmSGFzaCI7czoxMDoiMGJhNmNmNTQyZiI7fWk6MjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjI5OiJNw6FzIGRlIGxhIG1pdGFkIGRlIGxvcyBkw61hcyI7czo3OiJyZWZIYXNoIjtzOjEwOiIzZTFmZWVjZjMwIjt9aTozO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MjA6IkNhc2kgdG9kb3MgbG9zIGTDrWFzIjtzOjc6InJlZkhhc2giO3M6MTA6IjZiNGVlMzM5NWMiO319czoxMDoicGhxMl9pdGVtMiI7YTo0OntpOjA7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMToiRW4gYWJzb2x1dG8iO3M6NzoicmVmSGFzaCI7czoxMDoiMzViNDJhYjgwMyI7fWk6MTthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjEyOiJWYXJpb3MgZMOtYXMiO3M6NzoicmVmSGFzaCI7czoxMDoiMGJhNmNmNTQyZiI7fWk6MjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjI5OiJNw6FzIGRlIGxhIG1pdGFkIGRlIGxvcyBkw61hcyI7czo3OiJyZWZIYXNoIjtzOjEwOiIzZTFmZWVjZjMwIjt9aTozO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MjA6IkNhc2kgdG9kb3MgbG9zIGTDrWFzIjtzOjc6InJlZkhhc2giO3M6MTA6IjZiNGVlMzM5NWMiO319czoxODoid2VsbGJlaW5nX2NvbXBsZXRlIjthOjM6e2k6MDthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjEwOiJJbmNvbXBsZXRvIjtzOjc6InJlZkhhc2giO3M6MTA6IjM4N2ZkMWJiYzEiO31pOjE7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMzoiU2luIHZlcmlmaWNhciI7czo3OiJyZWZIYXNoIjtzOjEwOiJlYjI3YTE5MGMwIjt9aToyO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6ODoiQ29tcGxldG8iO3M6NzoicmVmSGFzaCI7czoxMDoiMWY1YTFhYmYyZiI7fX19czoxMjoiZmllbGQtaGVhZGVyIjthOjM6e3M6MTA6ImRhaWx5X2RhdGUiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MTE6IkVWQUxVQUNJw5NOIjtzOjc6InJlZkhhc2giO3M6MTA6IjRlNzZmMjJhMjciO319czoxMDoicGhxMl9pdGVtMSI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoyODoiUFJFR1VOVEFTIFNPQlJFIEVMIEJJRU5FU1RBUiI7czo3OiJyZWZIYXNoIjtzOjEwOiI4ZmRhZmFjNmJiIjt9fXM6MTg6IndlbGxiZWluZ19jb21wbGV0ZSI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoyNDoiwr9Gb3JtdWxhcmlvIGNvbXBsZXRhZG8/IjtzOjc6InJlZkhhc2giO3M6MTA6ImM5MWUwYjkxNTEiO319fXM6MTE6ImZpZWxkLWxhYmVsIjthOjk6e3M6MTA6ImRhaWx5X2RhdGUiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MjM6IkZFQ0hBIERFIExBIEVWQUxVQUNJw5NOIjtzOjc6InJlZkhhc2giO3M6MTA6ImQ2ZWRhMmM5Y2QiO319czoxNToiZGVtb2dfYmlydGhkYXRlIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjE5OiJGZWNoYSBkZSBuYWNpbWllbnRvIjtzOjc6InJlZkhhc2giO3M6MTA6Ijk1MTg0MjVmNDEiO319czoxMDoiZ2FkMl9pdGVtMSI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMDU6IkR1cmFudGUgbGFzIMO6bHRpbWFzIGRvcyBzZW1hbmFzLCDCv2NvbiBxdcOpIGZyZWN1ZW5jaWEgc2UgaGEgc2VudGlkbyBuZXJ2aW9zby9hLCBhbnNpb3NvL2EgbyBhbCBsw61taXRlPyI7czo3OiJyZWZIYXNoIjtzOjEwOiI1M2RjMTcyOWYyIjt9fXM6MTA6ImdhZDJfaXRlbTIiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MTIxOiJEdXJhbnRlIGxhcyDDumx0aW1hcyBkb3Mgc2VtYW5hcywgwr9jb24gcXXDqSBmcmVjdWVuY2lhIG5vIGhhIHBvZGlkbyBkZWphciBkZSBwcmVvY3VwYXJzZSBvIGNvbnRyb2xhciBzdXMgcHJlb2N1cGFjaW9uZXM/IjtzOjc6InJlZkhhc2giO3M6MTA6Ijg4MjBmZjVkZTgiO319czoxMDoicGhxMl9pdGVtMSI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMDQ6IkR1cmFudGUgbGFzIMO6bHRpbWFzIGRvcyBzZW1hbmFzLCDCv2NvbiBxdcOpIGZyZWN1ZW5jaWEgaGEgdGVuaWRvIHBvY28gaW50ZXLDqXMgbyBwbGFjZXIgZW4gaGFjZXIgY29zYXM/IjtzOjc6InJlZkhhc2giO3M6MTA6IjAzNzVjNzE5MDMiO319czoxMDoicGhxMl9pdGVtMiI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMTA6IkR1cmFudGUgbGFzIMO6bHRpbWFzIGRvcyBzZW1hbmFzLCDCv2NvbiBxdcOpIGZyZWN1ZW5jaWEgc2UgaGEgc2VudGlkbyBkZWNhw61kby9hLCBkZXByaW1pZG8vYSBvIHNpbiBlc3BlcmFuemE/IjtzOjc6InJlZkhhc2giO3M6MTA6IjdiODMyZTlmMmUiO319czo5OiJyZWNvcmRfaWQiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6Mzk6Ik7Dum1lcm8gZGUgcmVnaXN0cm8gYXNpZ25hZG8gcG9yIFJFRENhcCI7czo3OiJyZWZIYXNoIjtzOjEwOiJlMTVhMjEwODEyIjt9fXM6Njoic3ViamlkIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjE1ODoiSW50cm9kdXpjYSBlbCBuw7ptZXJvIGRlIHBhcnRpY2lwYW50ZSBhc2lnbmFkbyBwb3IgZWwgcGVyc29uYWwgZGVsIGVzdHVkaW8KRGViZSBjb25zdGFyIGRlIDUgY2FyYWN0ZXJlczogdW4gZ3Vpw7NuIHkgY3VhdHJvIGTDrWdpdG9zIChwb3IgZWplbXBsbywgWTA0MDEtMDAwMSkiO3M6NzoicmVmSGFzaCI7czoxMDoiYWY1MTI4YmM5OSI7fX1zOjE4OiJ3ZWxsYmVpbmdfY29tcGxldGUiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MzE6IsK/RXN0w6EgY29tcGxldG8gZWwgZm9ybXVsYXJpbz8iO3M6NzoicmVmSGFzaCI7czoxMDoiZmM4NGI0YTZkOCI7fX19czoxMToiZm9ybS1hY3RpdmUiO2E6MTp7czo5OiJ3ZWxsYmVpbmciO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MToiMSI7czo3OiJyZWZIYXNoIjtOO319fXM6MjI6InN1cnZleS1hY2tub3dsZWRnZW1lbnQiO2E6MTp7czo5OiJ3ZWxsYmVpbmciO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6ODE6IjxwPjxzdHJvbmc+R3JhY2lhcyBwb3IgcGFydGljaXBhciBlbiBlc3RlIGVzdHVkaW8gZGUgaW52ZXN0aWdhY2nDs24uPC9zdHJvbmc+PC9wPiI7czo3OiJyZWZIYXNoIjtzOjEwOiJlOTdhMDA5MWUyIjt9fX1zOjEzOiJzdXJ2ZXktYWN0aXZlIjthOjE6e3M6OToid2VsbGJlaW5nIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjE6IjEiO3M6NzoicmVmSGFzaCI7Tjt9fX1zOjE5OiJzdXJ2ZXktaW5zdHJ1Y3Rpb25zIjthOjE6e3M6OToid2VsbGJlaW5nIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjI3NzoiRXN0YSBlbmN1ZXN0YSBlcyDDum5pY2FtZW50ZSBwYXJhIHBhcnRpY2lwYW50ZXMgZGUgMTIgYcOxb3MgbyBtw6FzLgoKUG9yIGZhdm9yLCBjb21wbGV0ZSBlc3RhIGVuY3Vlc3RhIHNvYnJlIHN1IGJpZW5lc3RhciBkdXJhbnRlIGxhcyDDumx0aW1hcyBkb3Mgc2VtYW5hcy4gU3VzIHJlc3B1ZXN0YXMgbm9zIGF5dWRhbiBhIG1vbml0b3JlYXIgY2FtYmlvcyBhIGxvIGxhcmdvIGRlbCB0aWVtcG8geSBhcG95YW4gZXN0ZSBlc3R1ZGlvIGRlIGludmVzdGlnYWNpw7NuLgoKwqFHcmFjaWFzISI7czo3OiJyZWZIYXNoIjtzOjEwOiI1ZTUwOTQxOTgzIjt9fX1zOjMwOiJzdXJ2ZXktdGV4dF90b19zcGVlY2hfbGFuZ3VhZ2UiO2E6MTp7czo5OiJ3ZWxsYmVpbmciO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MToiDSI7czo3OiJyZWZIYXNoIjtzOjEwOiIwOTRiMGZlMGUzIjt9fX1zOjEyOiJzdXJ2ZXktdGl0bGUiO2E6MTp7czo5OiJ3ZWxsYmVpbmciO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MzE6IkN1ZXN0aW9uYXJpbyBzb2JyZSBlbCBiaWVuZXN0YXIiO3M6NzoicmVmSGFzaCI7czoxMDoiNzA3YjgzNjAwZiI7fX19fXM6MjoidWkiO2E6MDp7fX1zOjI6ImZyIjthOjEyOntzOjM6ImtleSI7czoyOiJmciI7czo3OiJkaXNwbGF5IjtzOjk6IkZyYW7Dp2FpcyI7czo1OiJub3RlcyI7czowOiIiO3M6NDoic29ydCI7czowOiIiO3M6MzoicnRsIjtiOjA7czo2OiJhY3RpdmUiO2I6MTtzOjEyOiJteWNhcC1hY3RpdmUiO2I6MDtzOjEwOiJzdWJzY3JpYmVkIjtiOjA7czo3OiJzeXNsYW5nIjtzOjA6IiI7czoxNDoicmVjYXB0Y2hhLWxhbmciO3M6MDoiIjtzOjI6ImRkIjthOjg6e3M6MTA6ImZpZWxkLWVudW0iO2E6NTp7czoxMDoiZ2FkMl9pdGVtMSI7YTo0OntpOjA7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMToiUGFzIGR1IHRvdXQiO3M6NzoicmVmSGFzaCI7czoxMDoiMzViNDJhYjgwMyI7fWk6MTthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjE1OiJQbHVzaWV1cnMgam91cnMiO3M6NzoicmVmSGFzaCI7czoxMDoiMGJhNmNmNTQyZiI7fWk6MjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjI4OiJQbHVzIGRlIGxhIG1vaXRpw6kgZGVzIGpvdXJzIjtzOjc6InJlZkhhc2giO3M6MTA6IjNlMWZlZWNmMzAiO31pOjM7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoyMjoiUHJlc3F1ZSB0b3VzIGxlcyBqb3VycyI7czo3OiJyZWZIYXNoIjtzOjEwOiI2YjRlZTMzOTVjIjt9fXM6MTA6ImdhZDJfaXRlbTIiO2E6NDp7aTowO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MTE6IlBhcyBkdSB0b3V0IjtzOjc6InJlZkhhc2giO3M6MTA6IjM1YjQyYWI4MDMiO31pOjE7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxNToiUGx1c2lldXJzIGpvdXJzIjtzOjc6InJlZkhhc2giO3M6MTA6IjBiYTZjZjU0MmYiO31pOjI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoyODoiUGx1cyBkZSBsYSBtb2l0acOpIGRlcyBqb3VycyI7czo3OiJyZWZIYXNoIjtzOjEwOiIzZTFmZWVjZjMwIjt9aTozO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MjI6IlByZXNxdWUgdG91cyBsZXMgam91cnMiO3M6NzoicmVmSGFzaCI7czoxMDoiNmI0ZWUzMzk1YyI7fX1zOjEwOiJwaHEyX2l0ZW0xIjthOjQ6e2k6MDthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjExOiJQYXMgZHUgdG91dCI7czo3OiJyZWZIYXNoIjtzOjEwOiIzNWI0MmFiODAzIjt9aToxO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MTU6IlBsdXNpZXVycyBqb3VycyI7czo3OiJyZWZIYXNoIjtzOjEwOiIwYmE2Y2Y1NDJmIjt9aToyO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6Mjg6IlBsdXMgZGUgbGEgbW9pdGnDqSBkZXMgam91cnMiO3M6NzoicmVmSGFzaCI7czoxMDoiM2UxZmVlY2YzMCI7fWk6MzthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjIyOiJQcmVzcXVlIHRvdXMgbGVzIGpvdXJzIjtzOjc6InJlZkhhc2giO3M6MTA6IjZiNGVlMzM5NWMiO319czoxMDoicGhxMl9pdGVtMiI7YTo0OntpOjA7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMToiUGFzIGR1IHRvdXQiO3M6NzoicmVmSGFzaCI7czoxMDoiMzViNDJhYjgwMyI7fWk6MTthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjE1OiJQbHVzaWV1cnMgam91cnMiO3M6NzoicmVmSGFzaCI7czoxMDoiMGJhNmNmNTQyZiI7fWk6MjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjI4OiJQbHVzIGRlIGxhIG1vaXRpw6kgZGVzIGpvdXJzIjtzOjc6InJlZkhhc2giO3M6MTA6IjNlMWZlZWNmMzAiO31pOjM7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoyMjoiUHJlc3F1ZSB0b3VzIGxlcyBqb3VycyI7czo3OiJyZWZIYXNoIjtzOjEwOiI2YjRlZTMzOTVjIjt9fXM6MTg6IndlbGxiZWluZ19jb21wbGV0ZSI7YTozOntpOjA7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czo5OiJJbmNvbXBsZXQiO3M6NzoicmVmSGFzaCI7czoxMDoiMzg3ZmQxYmJjMSI7fWk6MTthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjEzOiJOb24gdsOpcmlmacOpIjtzOjc6InJlZkhhc2giO3M6MTA6ImViMjdhMTkwYzAiO31pOjI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czo3OiJDb21wbGV0IjtzOjc6InJlZkhhc2giO3M6MTA6IjFmNWExYWJmMmYiO319fXM6MTI6ImZpZWxkLWhlYWRlciI7YTozOntzOjEwOiJkYWlseV9kYXRlIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjExOiLDiVZBTFVBVElPTiI7czo3OiJyZWZIYXNoIjtzOjEwOiI0ZTc2ZjIyYTI3Ijt9fXM6MTA6InBocTJfaXRlbTEiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6Mjc6IlFVRVNUSU9OUyBTVVIgTEUgQklFTi3DilRSRSI7czo3OiJyZWZIYXNoIjtzOjEwOiI4ZmRhZmFjNmJiIjt9fXM6MTg6IndlbGxiZWluZ19jb21wbGV0ZSI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoyMToiRm9ybXVsYWlyZSB0ZXJtaW7DqSA/IjtzOjc6InJlZkhhc2giO3M6MTA6ImM5MWUwYjkxNTEiO319fXM6MTE6ImZpZWxkLWxhYmVsIjthOjk6e3M6MTA6ImRhaWx5X2RhdGUiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MjE6IkRBVEUgREUgTCfDiVZBTFVBVElPTiI7czo3OiJyZWZIYXNoIjtzOjEwOiJkNmVkYTJjOWNkIjt9fXM6MTU6ImRlbW9nX2JpcnRoZGF0ZSI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxNzoiRGF0ZSBkZSBuYWlzc2FuY2UiO3M6NzoicmVmSGFzaCI7czoxMDoiOTUxODQyNWY0MSI7fX1zOjEwOiJnYWQyX2l0ZW0xIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjEyMzoiQXUgY291cnMgZGVzIGRldXggZGVybmnDqHJlcyBzZW1haW5lcywgw6AgcXVlbGxlIGZyw6lxdWVuY2Ugdm91cyDDqnRlcy12b3VzIHNlbnRpKGUpIG5lcnZldXgoc2UpLCBhbnhpZXV4KHNlKSBvdSB0ZW5kdShlKSA/IjtzOjc6InJlZkhhc2giO3M6MTA6IjUzZGMxNzI5ZjIiO319czoxMDoiZ2FkMl9pdGVtMiI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMzI6IkF1IGNvdXJzIGRlcyBkZXV4IGRlcm5pw6hyZXMgc2VtYWluZXMsIMOgIHF1ZWxsZSBmcsOpcXVlbmNlIGF2ZXotdm91cyDDqXTDqSBpbmNhcGFibGUgZCdhcnLDqnRlciBvdSBkZSBjb250csO0bGVyIHZvcyBpbnF1acOpdHVkZXMgPyI7czo3OiJyZWZIYXNoIjtzOjEwOiI4ODIwZmY1ZGU4Ijt9fXM6MTA6InBocTJfaXRlbTEiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6MTMwOiJBdSBjb3VycyBkZXMgZGV1eCBkZXJuacOocmVzIHNlbWFpbmVzLCDDoCBxdWVsbGUgZnLDqXF1ZW5jZSBhdmV6LXZvdXMgcmVzc2VudGkgcGV1IGQnaW50w6lyw6p0IG91IGRlIHBsYWlzaXIgw6AgZmFpcmUgZGVzIGNob3NlcyA/IjtzOjc6InJlZkhhc2giO3M6MTA6IjAzNzVjNzE5MDMiO319czoxMDoicGhxMl9pdGVtMiI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czoxMjI6IkF1IGNvdXJzIGRlcyBkZXV4IGRlcm5pw6hyZXMgc2VtYWluZXMsIMOgIHF1ZWxsZSBmcsOpcXVlbmNlIHZvdXMgw6p0ZXMtdm91cyBzZW50aShlKSB0cmlzdGUsIGTDqXByaW3DqShlKSBvdSBzYW5zIGVzcG9pciA/IjtzOjc6InJlZkhhc2giO3M6MTA6IjdiODMyZTlmMmUiO319czo5OiJyZWNvcmRfaWQiO2E6MTp7czowOiIiO2E6Mjp7czoxMToidHJhbnNsYXRpb24iO3M6NDU6Ik51bcOpcm8gZCdlbnJlZ2lzdHJlbWVudCBhdHRyaWJ1w6kgcGFyIFJFRENhcCI7czo3OiJyZWZIYXNoIjtzOjEwOiJlMTVhMjEwODEyIjt9fXM6Njoic3ViamlkIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjE1OToiU2Fpc2lzc2V6IGxlIG51bcOpcm8gZGUgcGFydGljaXBhbnQgYXR0cmlidcOpIHBhciBsJ8OpcXVpcGUgZGUgbCfDqXR1ZGUKSWwgZG9pdCBjb21wb3J0ZXIgNSBjYXJhY3TDqHJlcywgdW4gdGlyZXQgZXQgcXVhdHJlIGNoaWZmcmVzIChwYXIgZXhlbXBsZSA6IFkwNDAxLTAwMDEpIjtzOjc6InJlZkhhc2giO3M6MTA6ImFmNTEyOGJjOTkiO319czoxODoid2VsbGJlaW5nX2NvbXBsZXRlIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjMxOiJMZSBmb3JtdWxhaXJlIGVzdC1pbCB0ZXJtaW7DqSA/IjtzOjc6InJlZkhhc2giO3M6MTA6ImZjODRiNGE2ZDgiO319fXM6MTE6ImZvcm0tYWN0aXZlIjthOjE6e3M6OToid2VsbGJlaW5nIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjE6IjEiO3M6NzoicmVmSGFzaCI7Tjt9fX1zOjIyOiJzdXJ2ZXktYWNrbm93bGVkZ2VtZW50IjthOjE6e3M6OToid2VsbGJlaW5nIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjY1OiI8cD48c3Ryb25nPk1lcmNpIGQnYXZvaXIgcGFydGljaXDDqSDDoCBjZXR0ZSDDqXR1ZGUuPC9zdHJvbmc+PC9wPiI7czo3OiJyZWZIYXNoIjtzOjEwOiJlOTdhMDA5MWUyIjt9fX1zOjEzOiJzdXJ2ZXktYWN0aXZlIjthOjE6e3M6OToid2VsbGJlaW5nIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjE6IjEiO3M6NzoicmVmSGFzaCI7Tjt9fX1zOjE5OiJzdXJ2ZXktaW5zdHJ1Y3Rpb25zIjthOjE6e3M6OToid2VsbGJlaW5nIjthOjE6e3M6MDoiIjthOjI6e3M6MTE6InRyYW5zbGF0aW9uIjtzOjI5MToiQ2V0dGUgZW5xdcOqdGUgZXN0IHLDqXNlcnbDqWUgYXV4IHBhcnRpY2lwYW50cyDDomfDqXMgZGUgMTIgYW5zIG91IHBsdXMuCgpWZXVpbGxleiByZW1wbGlyIGNldHRlIGVucXXDqnRlIGNvbmNlcm5hbnQgdm90cmUgYmllbi3DqnRyZSBhdSBjb3VycyBkZXMgZGV1eCBkZXJuacOocmVzIHNlbWFpbmVzLiBWb3MgcsOpcG9uc2VzIG5vdXMgYWlkZW50IMOgIHN1aXZyZSBsZXMgY2hhbmdlbWVudHMgYXUgZmlsIGR1IHRlbXBzIGV0IHNvdXRpZW5uZW50IGNldHRlIMOpdHVkZSBkZSByZWNoZXJjaGUuCgpNZXJjaSAhIjtzOjc6InJlZkhhc2giO3M6MTA6IjVlNTA5NDE5ODMiO319fXM6MTI6InN1cnZleS10aXRsZSI7YToxOntzOjk6IndlbGxiZWluZyI7YToxOntzOjA6IiI7YToyOntzOjExOiJ0cmFuc2xhdGlvbiI7czozMToiUXVlc3Rpb25uYWlyZSBzdXIgbGUgYmllbi3DqnRyZSI7czo3OiJyZWZIYXNoIjtzOjEwOiI3MDdiODM2MDBmIjt9fX19czoyOiJ1aSI7YTowOnt9fX1zOjk6InByb2plY3RJZCI7czozOiI1NzUiO3M6MTU6ImRlc2lnbmF0ZWRGaWVsZCI7czowOiIiO3M6Njoic3RhdHVzIjtzOjM6ImRldiI7czo1OiJkZWJ1ZyI7YjowO3M6MTM6ImFkbWluLWVuYWJsZWQiO2I6MDtzOjE0OiJhZG1pbi1kaXNhYmxlZCI7YjowO3M6MTU6ImFsbG93LWZyb20tZmlsZSI7YjowO3M6MTg6ImFsbG93LWZyb20tc2NyYXRjaCI7YjowO3M6MjE6Im9wdGlvbmFsLXN1YnNjcmlwdGlvbiI7YjowO3M6MTg6ImFsbG93LXVpLW92ZXJyaWRlcyI7YjowO3M6NzoicmVmTGFuZyI7czoyOiJlbiI7czoxMjoiZmFsbGJhY2tMYW5nIjtzOjI6ImVuIjtzOjg6ImRpc2FibGVkIjtiOjA7czoyNToiaGlnaGxpZ2h0TWlzc2luZ0RhdGFlbnRyeSI7YjowO3M6MjI6ImhpZ2hsaWdodE1pc3NpbmdTdXJ2ZXkiO2I6MDtzOjIxOiJhdXRvRGV0ZWN0QnJvd3NlckxhbmciO2I6MDtzOjEyOiJhbGVydFNvdXJjZXMiO2E6MDp7fXM6MTA6ImFzaVNvdXJjZXMiO2E6MDp7fXM6MTQ6ImV4Y2x1ZGVkQWxlcnRzIjthOjA6e31zOjE0OiJleGNsdWRlZEZpZWxkcyI7YTowOnt9czoxNjoiZXhjbHVkZWRTZXR0aW5ncyI7YTowOnt9fQ=="/>
+	</redcap:MultilanguageSettingsGroup>
+</GlobalVariables>
+<MetaDataVersion OID="Metadata.SelfReportedMentalHealthHantav_2026-05-28_1539" Name="Self-Reported Mental Health Hantavirus" redcap:RecordIdField="record_id">
+	<FormDef OID="Form.wellbeing" Name="Wellbeing" Repeating="No" redcap:FormName="wellbeing">
+		<ItemGroupRef ItemGroupOID="wellbeing.record_id" Mandatory="No"/>
+		<ItemGroupRef ItemGroupOID="wellbeing.daily_date" Mandatory="No"/>
+		<ItemGroupRef ItemGroupOID="wellbeing.phq2_item1" Mandatory="No"/>
+		<ItemGroupRef ItemGroupOID="wellbeing.phq2_item2" Mandatory="No"/>
+		<ItemGroupRef ItemGroupOID="wellbeing.wellbeing_complete" Mandatory="No"/>
+	</FormDef>
+	<ItemGroupDef OID="wellbeing.record_id" Name="Wellbeing" Repeating="No">
+		<ItemRef ItemOID="record_id" Mandatory="No" redcap:Variable="record_id"/>
+		<ItemRef ItemOID="subjid" Mandatory="No" redcap:Variable="subjid"/>
+		<ItemRef ItemOID="demog_birthdate" Mandatory="No" redcap:Variable="demog_birthdate"/>
+		<ItemRef ItemOID="demog_age" Mandatory="No" redcap:Variable="demog_age"/>
+	</ItemGroupDef>
+	<ItemGroupDef OID="wellbeing.daily_date" Name="ASSESSMENT" Repeating="No">
+		<ItemRef ItemOID="daily_date" Mandatory="No" redcap:Variable="daily_date"/>
+	</ItemGroupDef>
+	<ItemGroupDef OID="wellbeing.phq2_item1" Name="Wellbeing questions" Repeating="No">
+		<ItemRef ItemOID="phq2_item1" Mandatory="No" redcap:Variable="phq2_item1"/>
+	</ItemGroupDef>
+	<ItemGroupDef OID="wellbeing.phq2_item2" Name="Wellbeing" Repeating="No">
+		<ItemRef ItemOID="phq2_item2" Mandatory="No" redcap:Variable="phq2_item2"/>
+		<ItemRef ItemOID="gad2_item1" Mandatory="No" redcap:Variable="gad2_item1"/>
+		<ItemRef ItemOID="gad2_item2" Mandatory="No" redcap:Variable="gad2_item2"/>
+	</ItemGroupDef>
+	<ItemGroupDef OID="wellbeing.wellbeing_complete" Name="Form Status" Repeating="No">
+		<ItemRef ItemOID="wellbeing_complete" Mandatory="No" redcap:Variable="wellbeing_complete"/>
+	</ItemGroupDef>
+	<ItemDef OID="record_id" Name="record_id" DataType="text" Length="999" redcap:Variable="record_id" redcap:FieldType="text">
+		<Question><TranslatedText>Record number assigned by REDCap</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="subjid" Name="subjid" DataType="text" Length="999" redcap:Variable="subjid" redcap:FieldType="text">
+		<Question><TranslatedText>Enter the participant number assigned by the study staff 
+It should have 5 characters, a hyphen, and four digits (e.g. Y0401-0001)</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="demog_birthdate" Name="demog_birthdate" DataType="date" Length="999" redcap:Variable="demog_birthdate" redcap:FieldType="text" redcap:TextValidationType="date_dmy">
+		<Question><TranslatedText>Date of birth</TranslatedText></Question>
+		<RangeCheck Comparator="LE" SoftHard="Soft">
+			<CheckValue>today</CheckValue>
+			<ErrorMessage><TranslatedText>The value you provided is outside the suggested range (no limit - today). This value is admissible, but you may wish to double check it.</TranslatedText></ErrorMessage>
+		</RangeCheck>
+	</ItemDef>
+	<ItemDef OID="demog_age" Name="demog_age" DataType="float" Length="999" redcap:Variable="demog_age" redcap:FieldType="calc" redcap:Calculation="rounddown(datediff([demog_birthdate], &#039;today&#039;, &#039;y&#039;))" redcap:FieldAnnotation="@HIDDEN-SURVEY">
+		<Question><TranslatedText>Age in years</TranslatedText></Question>
+	</ItemDef>
+	<ItemDef OID="daily_date" Name="daily_date" DataType="date" Length="999" redcap:Variable="daily_date" redcap:FieldType="text" redcap:TextValidationType="date_dmy" redcap:SectionHeader="ASSESSMENT" redcap:BranchingLogic="[demog_age] &gt;= 12">
+		<Question><TranslatedText>DATE OF ASSESSMENT</TranslatedText></Question>
+		<RangeCheck Comparator="LE" SoftHard="Soft">
+			<CheckValue>today</CheckValue>
+			<ErrorMessage><TranslatedText>The value you provided is outside the suggested range (no limit - today). This value is admissible, but you may wish to double check it.</TranslatedText></ErrorMessage>
+		</RangeCheck>
+	</ItemDef>
+	<ItemDef OID="phq2_item1" Name="phq2_item1" DataType="text" Length="1" redcap:Variable="phq2_item1" redcap:FieldType="radio" redcap:SectionHeader="Wellbeing questions" redcap:BranchingLogic="[demog_age] &gt;= 12">
+		<Question><TranslatedText>Over the last two weeks, how often have you been bothered by little interest or pleasure in doing things?</TranslatedText></Question>
+		<CodeListRef CodeListOID="phq2_item1.choices"/>
+	</ItemDef>
+	<ItemDef OID="phq2_item2" Name="phq2_item2" DataType="text" Length="1" redcap:Variable="phq2_item2" redcap:FieldType="radio" redcap:BranchingLogic="[demog_age] &gt;= 12">
+		<Question><TranslatedText>Over the last two weeks, how often have you been bothered by feeling down, depressed, or hopeless?</TranslatedText></Question>
+		<CodeListRef CodeListOID="phq2_item2.choices"/>
+	</ItemDef>
+	<ItemDef OID="gad2_item1" Name="gad2_item1" DataType="text" Length="1" redcap:Variable="gad2_item1" redcap:FieldType="radio" redcap:BranchingLogic="[demog_age] &gt;= 12">
+		<Question><TranslatedText>Over the last two weeks, how often have you been bothered by feeling nervous, anxious, or on edge?</TranslatedText></Question>
+		<CodeListRef CodeListOID="gad2_item1.choices"/>
+	</ItemDef>
+	<ItemDef OID="gad2_item2" Name="gad2_item2" DataType="text" Length="1" redcap:Variable="gad2_item2" redcap:FieldType="radio" redcap:BranchingLogic="[demog_age] &gt;= 12">
+		<Question><TranslatedText>Over the last two weeks, how often have you been bothered by not being able to stop or control worrying?</TranslatedText></Question>
+		<CodeListRef CodeListOID="gad2_item2.choices"/>
+	</ItemDef>
+	<ItemDef OID="wellbeing_complete" Name="wellbeing_complete" DataType="text" Length="1" redcap:Variable="wellbeing_complete" redcap:FieldType="select" redcap:SectionHeader="Form Status">
+		<Question><TranslatedText>Complete?</TranslatedText></Question>
+		<CodeListRef CodeListOID="wellbeing_complete.choices"/>
+	</ItemDef>
+	<CodeList OID="phq2_item1.choices" Name="phq2_item1" DataType="text" redcap:Variable="phq2_item1">
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Not at all</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Several days</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="2"><Decode><TranslatedText>More than half the days</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="3"><Decode><TranslatedText>Nearly every day</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="phq2_item2.choices" Name="phq2_item2" DataType="text" redcap:Variable="phq2_item2">
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Not at all</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Several days</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="2"><Decode><TranslatedText>More than half the days</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="3"><Decode><TranslatedText>Nearly every day</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="gad2_item1.choices" Name="gad2_item1" DataType="text" redcap:Variable="gad2_item1">
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Not at all</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Several days</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="2"><Decode><TranslatedText>More than half the days</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="3"><Decode><TranslatedText>Nearly every day</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="gad2_item2.choices" Name="gad2_item2" DataType="text" redcap:Variable="gad2_item2">
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Not at all</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Several days</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="2"><Decode><TranslatedText>More than half the days</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="3"><Decode><TranslatedText>Nearly every day</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+	<CodeList OID="wellbeing_complete.choices" Name="wellbeing_complete" DataType="text" redcap:Variable="wellbeing_complete">
+		<CodeListItem CodedValue="0"><Decode><TranslatedText>Incomplete</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="1"><Decode><TranslatedText>Unverified</TranslatedText></Decode></CodeListItem>
+		<CodeListItem CodedValue="2"><Decode><TranslatedText>Complete</TranslatedText></Decode></CodeListItem>
+	</CodeList>
+</MetaDataVersion>
+</Study>
+</ODM>
